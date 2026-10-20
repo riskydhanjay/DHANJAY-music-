@@ -1,0 +1,137 @@
+{
+  "songs": [
+    {
+      "id": "dm-001",
+      "title": "Cyber Dimension",
+      "artist": "DHANJAY MAHATO",
+      "album": "Neon Universe Vol. 1",
+      "genre": "Synthwave",
+      "duration": 194,
+      "audioUrl": "https://cdn.pixabay.com/download/audio/2022/05/27/audio_1808fbf07a.mp3?filename=cyberpunk-2099-10701.mp3",
+      "coverUrl": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=800&q=80",
+      "plays": 1420,
+      "likes": 384,
+      "releaseYear": 2026,
+      "addedAt": "2026-03-01T10:00:00.000Z",
+      "isTrending": true,
+      "isPopular": true,
+      "isRecommended": true,
+      "description": "A pulsating synthwave journey into a neon-lit cyberpunk metropolis with heavy basslines and retro synth leads."
+    },
+    {
+      "id": "dm-002",
+      "title": "Electric Nightfall",
+      "artist": "DHANJAY MAHATO",
+      "album": "Neon Universe Vol. 1",
+      "genre": "Cyberpunk",
+      "duration": 165,
+      "audioUrl": "https://cdn.pixabay.com/download/audio/2022/03/10/audio_c8c8a73467.mp3?filename=the-cradle-of-your-soul-15700.mp3",
+      "coverUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+      "plays": 980,
+      "likes": 245,
+      "releaseYear": 2026,
+      "addedAt": "2026-03-05T14:30:00.000Z",
+      "isTrending": true,
+      "isPopular": false,
+      "isRecommended": true,
+      "description": "Atmospheric electronic anthem featuring hypnotic arpeggios, electric guitar echoes, and deep 808 percussion."
+    },
+    {
+      "id": "dm-003",
+      "title": "Cosmic Velocity",
+      "artist": "DHANJAY MAHATO",
+      "album": "Hyperdrive",
+      "genre": "EDM",
+      "duration": 210,
+      "audioUrl": "https://cdn.pixabay.com/download/audio/2022/01/18/audio_d0a13f69d2.mp3?filename=electronic-future-beats-117997.mp3",
+      "coverUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=800&q=80",
+      "plays": 2150,
+      "likes": 672,
+      "releaseYear": 2026,
+      "addedAt": "2026-03-12T08:15:00.000Z",
+      "isTrending": false,
+      "isPopular": true,
+      "isRecommended": true,
+      "description": "High energy festival EDM with soaring saw leads, massive drops, and euphoric stadium melodies."
+    },
+    {
+      "id": "dm-004",
+      "title": "Lofi Stardust Dreams",
+      "artist": "DHANJAY MAHATO",
+      "album": "Midnight Chillout",
+      "genre": "Lo-Fi",
+      "duration": 148,
+      "audioUrl": "https://cdn.pixabay.com/download/audio/2022/05/16/audio_db6591201e.mp3?filename=lofi-study-112191.mp3",
+      "coverUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=800&q=80",
+      "plays": 1870,
+      "likes": 512,
+      "releaseYear": 2026,
+      "addedAt": "2026-03-18T20:00:00.000Z",
+      "isTrending": true,
+      "isPopular": true,
+      "isRecommended": false,
+      "description": "Warm vinyl crackles, mellow Rhodes piano chords, and soothing hip-hop beats for deep relaxation and focus."
+    },
+    {
+      "id": "dm-005",
+      "title": "Quantum Horizon",
+      "artist": "DHANJAY MAHATO",
+      "album": "Hyperdrive",
+      "genre": "Ambient",
+      "duration": 178,
+      "audioUrl": "https://cdn.pixabay.com/download/audio/2021/09/06/audio_03d97f2619.mp3?filename=space-atmosphere-10702.mp3",
+      "coverUrl": "https://images.unsplash.com/photo-1518709766631-a6a7f45921c3?auto=format&fit=crop&w=800&q=80",
+      "plays": 820,
+      "likes": 190,
+      "releaseYear": 2026,
+      "addedAt": "2026-03-24T12:00:00.000Z",
+      "isTrending": false,
+      "isPopular": false,
+      "isRecommended": true,
+      "description": "Ethereal soundscapes and shimmering pad layers depicting the vastness of the cosmos."
+    },
+    {
+      "id": "dm-006",
+      "title": "Neon Heartbeat",
+      "artist": "DHANJAY MAHATO",
+      "album": "Neon Universe Vol. 1",
+      "genre": "Synthwave",
+      "duration": 202,
+      "audioUrl": "https://cdn.pixabay.com/download/audio/2022/03/15/audio_c8c8a73467.mp3?filename=synthwave-80s-110045.mp3",
+      "coverUrl": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=800&q=80",
+      "plays": 1640,
+      "likes": 430,
+      "releaseYear": 2026,
+      "addedAt": "2026-03-28T16:45:00.000Z",
+      "isTrending": true,
+      "isPopular": true,
+      "isRecommended": true,
+      "description": "An infectious upbeat 80s synth-pop groove with sparkling arpeggiators and dynamic analog bass."
+    }
+  ],
+  "playlists": [
+    {
+      "id": "pl-01",
+      "name": "Cyberpunk Odyssey",
+      "description": "Immersive futuristic electronic tracks by Dhanjay Mahato.",
+      "coverUrl": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=800&q=80",
+      "songIds": [
+        "dm-001",
+        "dm-002",
+        "dm-006"
+      ],
+      "createdAt": "2026-03-01T10:00:00.000Z"
+    },
+    {
+      "id": "pl-02",
+      "name": "Chill Stardust Session",
+      "description": "Relaxing ambient and lofi tunes for late night flow.",
+      "coverUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=800&q=80",
+      "songIds": [
+        "dm-004",
+        "dm-005"
+      ],
+      "createdAt": "2026-03-15T12:00:00.000Z"
+    }
+  ]
+}

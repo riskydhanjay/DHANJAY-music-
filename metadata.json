@@ -1,0 +1,6 @@
+{
+  "name": "DHANJAY MAHATO - Futuristic 3D Music Streaming",
+  "description": "Futuristic 3D music streaming website by DHANJAY MAHATO with neon visuals, real audio playback, 3D visualizer, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
